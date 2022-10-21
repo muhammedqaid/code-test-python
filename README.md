@@ -16,9 +16,9 @@ See the enclosed sample apply event data for one of our clients DoorDash.
  
 #### Your Task
 1. Use the below API endpoint to add US State data to each event row
-2. Create a visualisation showing distribution of events across states
+2. Create a visualisation showing distribution of events across states (e.g. bar charts, maps)
 3. Create a visualisation showing the sum value of events across states
-4. Identify and visualise temporal trends of the event data
+4. Identify and visualise temporal trends of the event data (e.g. moving average of total daily eventValues)
 
 #### State API
 https://us-state-api.herokuapp.com/?lat=36.7&lon=-119.67
