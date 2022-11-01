@@ -34,3 +34,8 @@ If you provide an accurate latitude & longitude the API will return the followin
   }
 }
 ```
+
+#### To run
+1. Set up the environment by running 'pip install -r requirements.txt --upgrade'
+2. To re-generate the 'event_data_new.csv', which calls the API to add state data, run add_state.py.
+3. To run the visualisation, run app.py and open the address the server is running on in your browser. I.e. the terminal should print something to the effect of: 'Dash is running on http://127.0.0.1:8050/''.
